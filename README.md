@@ -19,8 +19,10 @@ I'm a future BTS SIO SLAM student in France, currently learning web development.
 
 ## Current Project
 
-### Stock Management System
+### [Stock Management System](https://github.com/Wafaob/stock-management-system)
 
 A web application designed to manage products, quantities and stock alerts.
+
+[View the live application](https://wafaob.github.io/stock-management-system/)
 
 The project is currently in development.
