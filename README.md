@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Wafae
 
-<!--
-**Wafaob/Wafaob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a future BTS SIO SLAM student in France, currently learning web development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently learning HTML, CSS and JavaScript
+- Building my first stock management web application
+- Learning Git and GitHub
+- Looking for a Web Development apprenticeship for September 2026
+
+## Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+
+## Current Project
+
+### Stock Management System
+
+A web application designed to manage products, quantities and stock alerts.
+
+The project is currently in development.
