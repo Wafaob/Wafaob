@@ -1,6 +1,6 @@
 # Hi, I'm Wafae
 
-I'm a future BTS SIO SLAM student in France, currently learning web development.
+I'm a BTS SIO SLAM student in France, currently learning web development.
 
 ## About Me
 
