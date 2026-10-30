@@ -7,7 +7,7 @@ I'm a BTS SIO SLAM student in France, currently learning web development.
 - Currently learning HTML, CSS and JavaScript
 - Building my first stock management web application
 - Learning Git and GitHub
-- Looking for a Web Development apprenticeship for September 2026
+
 
 ## Technologies
 
@@ -16,6 +16,8 @@ I'm a BTS SIO SLAM student in France, currently learning web development.
 - JavaScript
 - Git
 - GitHub
+- Python
+- C#
 
 ## Current Project
 
